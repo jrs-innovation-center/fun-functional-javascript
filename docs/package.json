@@ -1,0 +1,13 @@
+{
+  "name": "fun-fp-workshop",
+  "description": "fun functional javascript workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "codecampkit": "^2.4.5"
+  },
+  "scripts": {
+    "start": "cck"
+  }
+}

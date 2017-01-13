@@ -1,0 +1,39 @@
+{
+  "reminders": [
+    {
+      "message": "Beep",
+      "days": [],
+      "weeks": [],
+      "times": [],
+      "once": 1,
+      "active": 1,
+      "tempTime": "",
+      "id": 1
+    },
+    {
+      "message": "Pickup Diapers",
+      "days": [],
+      "weeks": [],
+      "times": [
+        "17:00"
+      ],
+      "once": 1,
+      "active": 1,
+      "tempTime": "",
+      "id": 2
+    },
+    {
+      "message": "Pickup Dry Cleaners",
+      "days": [],
+      "weeks": [],
+      "times": [
+        "17:00",
+        "09:00"
+      ],
+      "once": 1,
+      "active": 1,
+      "tempTime": "",
+      "id": 3
+    }
+  ]
+}
